@@ -52,6 +52,6 @@ describe SodaMachine do
         expect(soda_machine.sodas).to include(second_pepsi)
       end
     end
-  end
+   end
 
 end
